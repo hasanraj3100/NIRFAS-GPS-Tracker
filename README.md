@@ -24,6 +24,16 @@ The device sends its current position to a **Firebase Realtime Database** every 
 
 ---
 
+## Circuit Diagram
+
+Here is the circuit diagram showing the hardware setup of the ESP32 and NEO-6M GPS module:
+
+![Circuit Diagram](circuit-diagram.jpg)
+
+This diagram shows how to connect the ESP32 to the NEO-6M GPS module and set up the wiring for the project.
+
+---
+
 ## How It Works
 
 1. **ESP32 + GPS Module**  
